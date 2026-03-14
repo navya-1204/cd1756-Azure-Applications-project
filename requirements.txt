@@ -28,4 +28,5 @@ SQLAlchemy==1.4.54
 Mako>=1.2
 urllib3
 WTForms==2.2.1
+Werkzeug==2.2.3
 gunicorn
