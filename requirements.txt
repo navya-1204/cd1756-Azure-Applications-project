@@ -14,7 +14,7 @@ Flask-SQLAlchemy==3.0.5
 Flask-WTF==0.14.3
 idna==2.8
 itsdangerous==2.0.1
-Jinja2==3.0.1
+Jinja2==3.1.2
 MarkupSafe==2.0.1
 msal==1.13.0
 pycparser==2.20
@@ -27,6 +27,6 @@ six==1.14.0
 SQLAlchemy==1.4.54
 Mako>=1.2
 urllib3==1.25.8
-Werkzeug==2.0.3
+Werkzeug==2.3.7
 WTForms==2.2.1
 gunicorn
