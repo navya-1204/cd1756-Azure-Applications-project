@@ -27,6 +27,6 @@ six==1.14.0
 SQLAlchemy==1.4.54
 Mako>=1.2
 urllib3
-Werkzeug==2.3.7
+Werkzeug==2.0.3
 WTForms==2.2.1
 gunicorn
